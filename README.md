@@ -23,4 +23,5 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 1 | 1 | 3 September 2025 | Pengenalan Mobile Programming dan Setup | [Laporan 1](https://docs.google.com/document/d/1jNhoylMjC86GS6pOQmGq8VQkpFiYhXy6/edit?usp=sharing&ouid=111643239718342197236&rtpof=true&sd=true "Laporan 1") | [Modul 1](https://github.com/Annisa165/Prak-Mobile-Modul-1 "Modul 1") |
 | 2 | 1 | 3 September 2025 | Widget Row dan Column | [Laporan 2](https://docs.google.com/document/d/1O_NYYbqqzhj7BAqnpLvtRxmkWDuqKXdrxInV7BDCE9E/edit?usp=sharing "Laporan 2") | [Modul 2](https://github.com/Annisa165/Prak-Mobile-Modul-2 "Modul 2") |
+| 3 | 2 | 10 September 2025 | Pengaturan Layout Row dan Column di Flutter | [Laporan 3](https://docs.google.com/document/d/16pGw8WaDDvR6T8xs0m39J6fvmRJsnn7xiAIIJb9mIeM/edit?usp=sharing "Laporan 3") | [Modul 3](https://github.com/Annisa165/Prak-Mobile-Modul-2 "Modul 3") |
 
