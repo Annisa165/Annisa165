@@ -31,3 +31,5 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 | 8 | 4 | 24 September 2025 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route| [Laporan 8](https://docs.google.com/document/d/1O4p2dKglZC7DrbauAjC9QHbp0G19QYY-k_nyyM_e4C8/edit?usp=sharing "Laporan 8") | [Modul 8]( "Modul 8") |
 | 9 | 5 | 1 Oktober 2025 | StatefulWidget| [Laporan 9](https://docs.google.com/document/d/1vVudGyde4n5HSwkT1tVFBUgd1CiSu7gm6vdhEHJsAwo/edit?usp=sharing "Laporan 9") | [Modul 9]( "Modul 9") |
 | 10 | 6 | 8 Oktober 2025 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Laporan 10]( "Laporan 10") | [Modul 10]( "Modul 10") |
+| 11 | 6 | 15 Oktober 2025 | Manajemen State dengan GetX| [Laporan 11]( "Laporan 11") | [Modul 11]( "Modul 11") |
+| 12 | 6 | 22 Oktober 2025 | Ujian Tengah Semester| [Laporan UTS]( "Laporan UTS") | [UTS](https://github.com/Annisa165/uts "UTS") |
