@@ -1,42 +1,49 @@
 # Hi there! 👋 I'm Siti Annisa Rahmiasari
 
 <h3 align="center">
-Informatics Engineering Student • Web Developer • Educator • Educational Game Developer
+Informatics Engineering Student • Web Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building impactful technology for education and everyday life.
+Building technology that makes learning more engaging and impactful.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm an Informatics Engineering student at **Universitas Islam Negeri Maulana Malik Ibrahim Malang**.
+I'm an Informatics Engineering student at **Universitas Islam Negeri Maulana Malik Ibrahim Malang** with a passion for **Web Development, Artificial Intelligence, and Educational Technology**.
 
-I have a strong interest in **Web Development, Mobile Development, Artificial Intelligence, and Educational Technology**. Besides developing software, I also work as a **private tutor** and **teaching assistant**, where I enjoy helping students understand programming, mathematics, and science through interactive learning experiences.
+Beyond coding, I work as a **private tutor** and **teaching assistant**, helping students understand programming, mathematics, and science through interactive learning. I'm currently building **educational games** that combine technology and education to create meaningful learning experiences.
 
-Currently, I'm building **educational games** that make learning more engaging, interactive, and enjoyable.
+I enjoy exploring new technologies, solving real-world problems, and continuously improving my skills through personal and academic projects.
 
+---
+
+## 🚀 Featured Projects
+
+- 🎮 **Educational Game** — Interactive learning game for students.
+- 🤖 **Mental Health Sentiment Analysis** — NLP project using IndoBERT.
+- 🌐 **Web Development Projects** — Responsive web applications and information systems.
+- 📱 **Mobile Programming** — Flutter coursework and experiments.
 ---
 
 ## 🚀 Current Focus
 
-- 📱 Mobile Development with Flutter
 - 🌐 Web Development
-- 🎮 Educational Game Development
+- 🎮 Building Educational Games
 - 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Processing and Data Visualization
+- 📊 Data Analysis & Visualization
+- 📚 Educational Technology
 
 ---
 
 ## 💼 Experience
 
 - 👩‍🏫 Private Tutor (Mathematics & Science)
-- 👨‍💻 Teaching Assistant (Algorithm, Object-Oriented Programming, Database)
+- 👨‍💻 Teaching Assistant (Algorithms, Object-Oriented Programming & Database)
 - 🌐 Web Developer
 - ✍️ Freelance Writer
-- 🎮 Educational Game Developer
 
 ---
 
@@ -46,13 +53,12 @@ Currently, I'm building **educational games** that make learning more engaging, 
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Libraries
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Database
@@ -70,10 +76,10 @@ Currently, I'm building **educational games** that make learning more engaging, 
 
 ## 🌱 Currently Learning
 
-- Flutter
-- REST API
-- State Management (GetX)
+- Modern Web Development
+- RESTful API
 - Artificial Intelligence
+- Machine Learning
 - Educational Game Development
 - UI/UX Design
 
@@ -81,12 +87,11 @@ Currently, I'm building **educational games** that make learning more engaging, 
 
 ## 🌟 Interests
 
-- 🎮 Educational Games
-- 👩‍🏫 Education Technology
-- 📱 Mobile Development
 - 🌐 Web Development
 - 🤖 Artificial Intelligence
-- 📊 Machine Learning
+- 🎮 Educational Games
+- 📚 Educational Technology
+- 📊 Data Science & Machine Learning
 - 🧠 Psychology & Mental Health
 
 ---
@@ -94,14 +99,14 @@ Currently, I'm building **educational games** that make learning more engaging, 
 ## 🌐 Connect with Me
 
 🌍 **Portfolio**  
-https://annisa165.github.io/portofolio/
+**https://annisa165.github.io/portofolio/**
 
 💻 **GitHub**  
-https://github.com/Annisa165
+**https://github.com/Annisa165**
 
 📧 **Email**  
-annisarahmiasari165@gmail.com
+**annisarahmiasari165@gmail.com**
 
 ---
 
-> *"Technology becomes meaningful when it empowers people to learn, create, and grow."* 🚀
+> *"Building technology that empowers people to learn, create, and grow."* 🚀
