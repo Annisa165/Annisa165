@@ -23,7 +23,6 @@ I enjoy exploring new technologies, solving real-world problems, and continuousl
 ## 🚀 Featured Projects
 
 - 🎮 **Educational Game** — Interactive learning game for students.
-- 🤖 **Mental Health Sentiment Analysis** — NLP project using IndoBERT.
 - 🌐 **Web Development Projects** — Responsive web applications and information systems.
 - 📱 **Mobile Programming** — Flutter coursework and experiments.
 ---
